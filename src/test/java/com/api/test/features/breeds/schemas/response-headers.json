@@ -1,0 +1,8 @@
+{
+  "Content-Type": ["application/json; charset=utf-8"],
+  "Content-Length": "#[] #string",
+  "Host": ["reqres.in"],
+  "Connection": ["Keep-Alive"],
+  "User-Agent": ["pache-HttpClient/4.5.13 (Java/13.0.14)"],
+  "Accept-Encoding": ["gzip,deflate"]
+}
